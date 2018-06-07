@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapNavigation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="directionsApiKey">AIzaSyAKC02ou41L_wAy3ffAD_a47EEPRhouZt0</string>
+</resources>
